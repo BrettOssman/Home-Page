@@ -1,0 +1,76 @@
+{
+  "collections": [
+    {
+      "order": 0,
+      "title": "Florida Wildlife",
+      "description": "Birds, animals, and quiet wildlife encounters from Florida’s natural habitats.",
+      "image": "images/florida-wildlife.jpg",
+      "url": "https://fineartamerica.com/profiles/lanis-ossman?tab=artworkgalleries&artworkgalleryid=1254296",
+      "count": 22
+    },
+    {
+      "order": 1,
+      "title": "Bird Portraits",
+      "description": "Close views, quiet profiles, and still moments with Florida birds.",
+      "image": "images/bird-portraits.jpg",
+      "url": "https://fineartamerica.com/profiles/lanis-ossman?tab=artworkgalleries&artworkgalleryid=1270262",
+      "count": 10
+    },
+    {
+      "order": 2,
+      "title": "Bird Action & Behavior",
+      "description": "Birds in flight, feeding, landing, departing, and interacting with their natural surroundings.",
+      "image": "images/bird-action-behavior.jpg",
+      "url": "https://fineartamerica.com/profiles/lanis-ossman?tab=artworkgalleries&artworkgalleryid=1270263",
+      "count": 6
+    },
+    {
+      "order": 3,
+      "title": "Atmospheric Wildlife",
+      "description": "Wildlife scenes shaped by mist, soft light, shadow, reflection, and quiet natural atmosphere.",
+      "image": "images/atmospheric-wildlife.jpg",
+      "url": "https://fineartamerica.com/profiles/lanis-ossman?tab=artworkgalleries&artworkgalleryid=1265912",
+      "count": 11
+    },
+    {
+      "order": 4,
+      "title": "Florida Light & Skies",
+      "description": "Sunrise, sunset, dramatic clouds, and atmospheric light from Florida’s natural landscapes.",
+      "image": "images/florida-light-skies.jpg",
+      "url": "https://fineartamerica.com/profiles/lanis-ossman?tab=artworkgalleries&artworkgalleryid=1270258",
+      "count": 5
+    },
+    {
+      "order": 5,
+      "title": "Landscapes & Wetlands",
+      "description": "Florida wetlands, coastal scenes, quiet shorelines, and natural landscapes.",
+      "image": "images/landscapes-wetlands.jpg",
+      "url": "https://fineartamerica.com/profiles/lanis-ossman?tab=artworkgalleries&artworkgalleryid=1254300",
+      "count": 7
+    },
+    {
+      "order": 6,
+      "title": "Small Wonders",
+      "description": "Small creatures, quiet garden encounters, and close nature details.",
+      "image": "images/small-wonders.jpg",
+      "url": "https://fineartamerica.com/profiles/lanis-ossman?tab=artworkgalleries&artworkgalleryid=1270260",
+      "count": 7
+    },
+    {
+      "order": 7,
+      "title": "Botanical Color",
+      "description": "Bold flowers, vivid garden color, and close botanical details.",
+      "image": "images/botanical-color.jpg",
+      "url": "https://fineartamerica.com/profiles/lanis-ossman?tab=artworkgalleries&artworkgalleryid=1270259",
+      "count": 4
+    },
+    {
+      "order": 8,
+      "title": "Black and White Nature",
+      "description": "Nature images presented in black and white, emphasizing form, texture, contrast, mood, and quiet detail.",
+      "image": "images/black-and-white-nature.jpg",
+      "url": "https://fineartamerica.com/profiles/lanis-ossman?tab=artworkgalleries&artworkgalleryid=1270264",
+      "count": 5
+    }
+  ]
+}
