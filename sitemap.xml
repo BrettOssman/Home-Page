@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://brettossman.com/</loc>
+
+    <image:image>
+      <image:loc>https://brettossman.com/images/atmospheric-wildlife.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://brettossman.com/images/bird-action-behavior.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://brettossman.com/images/bird-portraits.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://brettossman.com/images/black-and-white-nature.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://brettossman.com/images/botanical-color.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://brettossman.com/images/fishing-at-first-light.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://brettossman.com/images/florida-light-skies.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://brettossman.com/images/florida-wildlife.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://brettossman.com/images/landscapes-wetlands.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://brettossman.com/images/misty-gathering.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://brettossman.com/images/morning-stillness.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://brettossman.com/images/quiet-profile.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://brettossman.com/images/small-wonders.jpg</image:loc>
+    </image:image>
+
+  </url>
+</urlset>
