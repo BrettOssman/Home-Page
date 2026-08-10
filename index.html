@@ -6,7 +6,7 @@
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-192TVSSP1P"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
+    function gtag() {dataLayer.push(arguments);}
     gtag('js', new Date());
 
     gtag('config', 'G-192TVSSP1P');
@@ -227,7 +227,7 @@
           card.rel = "noopener noreferrer";
 
           card.innerHTML = `
-          <img src="${collection.image}" alt="${collection.title}" />
+          <img src="${collection.image}" alt="${collection.alt || collection.title}" />
           <div class="collection-card-content">
             <h3>${collection.title}</h3>
             <p>${collection.description}</p>

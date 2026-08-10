@@ -5,6 +5,7 @@
       "title": "Florida Wildlife",
       "description": "Birds, animals, and quiet wildlife encounters from Florida’s natural habitats.",
       "image": "images/florida-wildlife.jpg",
+      "alt": "Great blue heron standing among dense green Florida wetland vegetation.",
       "url": "https://fineartamerica.com/profiles/lanis-ossman?tab=artworkgalleries&artworkgalleryid=1254296",
       "count": 22
     },
@@ -13,6 +14,7 @@
       "title": "Bird Portraits",
       "description": "Close views, quiet profiles, and still moments with Florida birds.",
       "image": "images/bird-portraits.jpg",
+      "alt": "Close profile of a great blue heron against dark blue water.",
       "url": "https://fineartamerica.com/profiles/lanis-ossman?tab=artworkgalleries&artworkgalleryid=1270262",
       "count": 9
     },
@@ -21,6 +23,7 @@
       "title": "Bird Action & Behavior",
       "description": "Birds in flight, feeding, landing, departing, and interacting with their natural surroundings.",
       "image": "images/bird-action-behavior.jpg",
+      "alt": "Great blue heron taking flight over water with wings spread and a splash below.",
       "url": "https://fineartamerica.com/profiles/lanis-ossman?tab=artworkgalleries&artworkgalleryid=1270263",
       "count": 6
     },
@@ -29,6 +32,7 @@
       "title": "Atmospheric Wildlife",
       "description": "Wildlife scenes shaped by mist, soft light, shadow, reflection, and quiet natural atmosphere.",
       "image": "images/atmospheric-wildlife.jpg",
+      "alt": "Misty Florida wetland with birds gathered along calm water.",
       "url": "https://fineartamerica.com/profiles/lanis-ossman?tab=artworkgalleries&artworkgalleryid=1265912",
       "count": 11
     },
@@ -37,6 +41,7 @@
       "title": "Florida Light & Skies",
       "description": "Sunrise, sunset, dramatic clouds, and atmospheric light from Florida’s natural landscapes.",
       "image": "images/florida-light-skies.jpg",
+      "alt": "Glowing red-orange sunset cloud above silhouetted Florida vegetation.",
       "url": "https://fineartamerica.com/profiles/lanis-ossman?tab=artworkgalleries&artworkgalleryid=1270258",
       "count": 5
     },
@@ -45,6 +50,7 @@
       "title": "Landscapes & Wetlands",
       "description": "Florida wetlands, coastal scenes, quiet shorelines, and natural landscapes.",
       "image": "images/landscapes-wetlands.jpg",
+      "alt": "Golden sunrise spreading through mist across a Florida wetland.",
       "url": "https://fineartamerica.com/profiles/lanis-ossman?tab=artworkgalleries&artworkgalleryid=1254300",
       "count": 7
     },
@@ -53,6 +59,7 @@
       "title": "Small Wonders",
       "description": "Small creatures, quiet garden encounters, and close nature details.",
       "image": "images/small-wonders.jpg",
+      "alt": "Green grasshopper on a white flower with a bumblebee hovering nearby.",
       "url": "https://fineartamerica.com/profiles/lanis-ossman?tab=artworkgalleries&artworkgalleryid=1270260",
       "count": 7
     },
@@ -61,6 +68,7 @@
       "title": "Botanical Color",
       "description": "Bold flowers, vivid garden color, and close botanical details.",
       "image": "images/botanical-color.jpg",
+      "alt": "Yellow flower surrounded by broad green leaves in a tropical garden.",
       "url": "https://fineartamerica.com/profiles/lanis-ossman?tab=artworkgalleries&artworkgalleryid=1270259",
       "count": 4
     },
@@ -69,6 +77,7 @@
       "title": "Black and White Nature",
       "description": "Nature images presented in black and white, emphasizing form, texture, contrast, mood, and quiet detail.",
       "image": "images/black-and-white-nature.jpg",
+      "alt": "Black and white portrait of a turkey vulture against a pale background.",
       "url": "https://fineartamerica.com/profiles/lanis-ossman?tab=artworkgalleries&artworkgalleryid=1270264",
       "count": 5
     }
