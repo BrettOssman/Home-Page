@@ -47,4 +47,11 @@
     </image:image>
 
   </url>
+  <url>
+    <loc>https://brettossman.com/morning-stillness.html</loc>
+
+    <image:image>
+      <image:loc>https://brettossman.com/images/morning-stillness.jpg</image:loc>
+    </image:image>
+  </url>
 </urlset>
